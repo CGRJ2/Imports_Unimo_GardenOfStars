@@ -24,7 +24,7 @@ namespace DissolveExample
         }
 
         // Update is called once per frame
-        void Update()
+       /* void Update()
         {
             if (Input.GetKeyDown(KeyCode.I))
             {
@@ -37,7 +37,7 @@ namespace DissolveExample
                 value -= 0.5f;
                 SetValue(value);
             }
-        }
+        }*/
 
         //IEnumerator enumerator()
         //{
